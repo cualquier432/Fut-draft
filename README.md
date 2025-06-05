@@ -633,3 +633,4 @@ export default function App() {
         </div>
     );
 }
+npm run build o yarn build
